@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"A File Icon",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Emmet",
@@ -13,6 +15,7 @@
 		"jQuery",
 		"Material Theme",
 		"Package Control",
-		"Sass"
+		"Sass",
+		"SideBarEnhancements"
 	]
 }

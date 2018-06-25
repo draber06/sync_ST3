@@ -23,6 +23,8 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Sunnyvale Color Scheme"
 	]
 }

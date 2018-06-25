@@ -2,5 +2,6 @@
 *
 # ... except preferences
 !.gitignore
-!Preferences.sublime-settings
-!Package Control.sublime-settings
+!*.sublime-settings
+!Default (Windows).sublime-keymap
+!Default (Windows).sublime-mousemap

@@ -24,7 +24,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-eslint",
 		"Sunnyvale Color Scheme",
 		"VBScript"
 	]

@@ -1,18 +1,18 @@
 {
     "gutter_theme": "Circle",
     "styles": [{
-        "mark_style": "solid_underline",
+        "mark_style": "none",
         "priority": 1,
         "scope": "sublimelinter.mark.warning",
-        "icon": "warning",
+        "icon": "circle",
         "types": [
             "warning"
         ]
     }, {
-        "mark_style": "solid_underline",
+        "mark_style": "none",
         "priority": 1,
         "scope": "sublimelinter.mark.error",
-        "icon": "error",
+        "icon": "circle",
         "types": [
             "error"
         ]
